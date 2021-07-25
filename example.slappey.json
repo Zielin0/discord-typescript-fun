@@ -1,0 +1,7 @@
+{
+  "name": "test",
+  "language": "typescript",
+  "manager": "yarn",
+  "token": "token",
+  "prefix": "!"
+}
